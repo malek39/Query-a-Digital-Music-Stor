@@ -24,3 +24,18 @@ Q3 Using the Track and Album tables, write a query that returns all the songs th
 
 Q4 The Chinook team would like to throw a promotional Music Festival for their top 10 customers who have spent the most in a single invoice. Write a query that returns the first name, last name, and invoice total for the top 10 invoices ordered by invoice total descending.
 
+
+
+
+# Query a Digital Music Store -Part II-
+
+# In this lab, you will query the Chinook Database. The Chinook Database holds information about a music store.
+
+# Task
+
+For this lab, you will help the Chinook team understand the media in their store, their customers and employees, and their invoice information.
+Key Takeaways
+
+    Use subqueries and temporary tables to take your queries to a whole new level
+    Use SQL to make data informed decisions
+    
